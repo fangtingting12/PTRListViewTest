@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "G:\\demo\\SmartRefreshLayout-master\\PTRListViewTest\\lib_PullToRefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\vpi__tab_indicator.xml",
+        "source": "G:\\demo\\SmartRefreshLayout-master\\PTRListViewTest\\lib_PullToRefresh\\build\\intermediates\\bundles\\debug\\res\\drawable\\vpi__tab_indicator.xml"
+    },
+    {
+        "merged": "G:\\demo\\SmartRefreshLayout-master\\PTRListViewTest\\lib_PullToRefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "G:\\demo\\SmartRefreshLayout-master\\PTRListViewTest\\lib_PullToRefresh\\build\\intermediates\\bundles\\debug\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "G:\\demo\\SmartRefreshLayout-master\\PTRListViewTest\\lib_PullToRefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "G:\\demo\\SmartRefreshLayout-master\\PTRListViewTest\\lib_PullToRefresh\\build\\intermediates\\bundles\\debug\\res\\drawable\\indicator_bg_bottom.xml"
+    }
+]

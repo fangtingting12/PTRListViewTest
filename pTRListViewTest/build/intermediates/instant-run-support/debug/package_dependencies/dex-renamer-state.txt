@@ -1,0 +1,7 @@
+#Tue Jul 25 16:09:59 CST 2017
+base.0=G\:\\demo\\SmartRefreshLayout-master\\PTRListViewTest\\pTRListViewTest\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_595238608f3442421d142d4020177c500341a064
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=G\:\\demo\\SmartRefreshLayout-master\\PTRListViewTest\\pTRListViewTest\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-19.1.0_dc825f4780619c0770a0524f093289c757882990\\classes.dex
+base.1=G\:\\demo\\SmartRefreshLayout-master\\PTRListViewTest\\pTRListViewTest\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-19.1.0_dc825f4780619c0770a0524f093289c757882990
+file.0=G\:\\demo\\SmartRefreshLayout-master\\PTRListViewTest\\pTRListViewTest\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_595238608f3442421d142d4020177c500341a064\\classes.dex

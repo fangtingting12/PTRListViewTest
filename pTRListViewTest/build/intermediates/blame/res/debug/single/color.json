@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "G:\\demo\\SmartRefreshLayout-master\\PTRListViewTest\\pTRListViewTest\\build\\intermediates\\res\\merged\\debug\\color\\vpi__dark_theme.xml",
+        "source": "G:\\demo\\SmartRefreshLayout-master\\PTRListViewTest\\lib_PullToRefresh\\build\\intermediates\\bundles\\default\\res\\color\\vpi__dark_theme.xml"
+    },
+    {
+        "merged": "G:\\demo\\SmartRefreshLayout-master\\PTRListViewTest\\pTRListViewTest\\build\\intermediates\\res\\merged\\debug\\color\\vpi__light_theme.xml",
+        "source": "G:\\demo\\SmartRefreshLayout-master\\PTRListViewTest\\lib_PullToRefresh\\build\\intermediates\\bundles\\default\\res\\color\\vpi__light_theme.xml"
+    },
+    {
+        "merged": "G:\\demo\\SmartRefreshLayout-master\\PTRListViewTest\\pTRListViewTest\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text_holo.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\1ca355d38ed700bddbbc2c37411f30ac8b69a0f3\\output\\res\\color\\abc_search_url_text_holo.xml"
+    }
+]

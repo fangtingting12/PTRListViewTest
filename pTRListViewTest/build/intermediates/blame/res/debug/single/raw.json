@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "G:\\demo\\SmartRefreshLayout-master\\PTRListViewTest\\pTRListViewTest\\build\\intermediates\\res\\merged\\debug\\raw\\refreshing_sound.mp3",
+        "source": "G:\\demo\\SmartRefreshLayout-master\\PTRListViewTest\\pTRListViewTest\\src\\main\\res\\raw\\refreshing_sound.mp3"
+    },
+    {
+        "merged": "G:\\demo\\SmartRefreshLayout-master\\PTRListViewTest\\pTRListViewTest\\build\\intermediates\\res\\merged\\debug\\raw\\reset_sound.mp3",
+        "source": "G:\\demo\\SmartRefreshLayout-master\\PTRListViewTest\\pTRListViewTest\\src\\main\\res\\raw\\reset_sound.mp3"
+    },
+    {
+        "merged": "G:\\demo\\SmartRefreshLayout-master\\PTRListViewTest\\pTRListViewTest\\build\\intermediates\\res\\merged\\debug\\raw\\pull_event.mp3",
+        "source": "G:\\demo\\SmartRefreshLayout-master\\PTRListViewTest\\pTRListViewTest\\src\\main\\res\\raw\\pull_event.mp3"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "G:\\demo\\SmartRefreshLayout-master\\PTRListViewTest\\pTRListViewTest\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w500dp-v13\\values-w500dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\1ca355d38ed700bddbbc2c37411f30ac8b69a0f3\\output\\res\\values-w500dp\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 281,
+                        "endColumn": 54,
+                        "endOffset": 331
+                    }
+                }
+            }
+        ]
+    }
+]

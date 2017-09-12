@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "G:\\demo\\SmartRefreshLayout-master\\PTRListViewTest\\lib_PullToRefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "G:\\demo\\SmartRefreshLayout-master\\PTRListViewTest\\lib_PullToRefresh\\build\\intermediates\\bundles\\debug\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "G:\\demo\\SmartRefreshLayout-master\\PTRListViewTest\\lib_PullToRefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "G:\\demo\\SmartRefreshLayout-master\\PTRListViewTest\\lib_PullToRefresh\\build\\intermediates\\bundles\\debug\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    }
+]

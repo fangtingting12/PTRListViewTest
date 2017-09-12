@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "G:\\demo\\SmartRefreshLayout-master\\PTRListViewTest\\pTRListViewTest\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_top.xml",
+        "source": "G:\\demo\\SmartRefreshLayout-master\\PTRListViewTest\\lib_PullToRefresh\\build\\intermediates\\bundles\\default\\res\\anim\\slide_out_to_top.xml"
+    },
+    {
+        "merged": "G:\\demo\\SmartRefreshLayout-master\\PTRListViewTest\\pTRListViewTest\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\1ca355d38ed700bddbbc2c37411f30ac8b69a0f3\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "G:\\demo\\SmartRefreshLayout-master\\PTRListViewTest\\pTRListViewTest\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\1ca355d38ed700bddbbc2c37411f30ac8b69a0f3\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "G:\\demo\\SmartRefreshLayout-master\\PTRListViewTest\\pTRListViewTest\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\1ca355d38ed700bddbbc2c37411f30ac8b69a0f3\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "G:\\demo\\SmartRefreshLayout-master\\PTRListViewTest\\pTRListViewTest\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_bottom.xml",
+        "source": "G:\\demo\\SmartRefreshLayout-master\\PTRListViewTest\\lib_PullToRefresh\\build\\intermediates\\bundles\\default\\res\\anim\\slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "G:\\demo\\SmartRefreshLayout-master\\PTRListViewTest\\pTRListViewTest\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\1ca355d38ed700bddbbc2c37411f30ac8b69a0f3\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "G:\\demo\\SmartRefreshLayout-master\\PTRListViewTest\\pTRListViewTest\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_bottom.xml",
+        "source": "G:\\demo\\SmartRefreshLayout-master\\PTRListViewTest\\lib_PullToRefresh\\build\\intermediates\\bundles\\default\\res\\anim\\slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "G:\\demo\\SmartRefreshLayout-master\\PTRListViewTest\\pTRListViewTest\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\1ca355d38ed700bddbbc2c37411f30ac8b69a0f3\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "G:\\demo\\SmartRefreshLayout-master\\PTRListViewTest\\pTRListViewTest\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_top.xml",
+        "source": "G:\\demo\\SmartRefreshLayout-master\\PTRListViewTest\\lib_PullToRefresh\\build\\intermediates\\bundles\\default\\res\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "G:\\demo\\SmartRefreshLayout-master\\PTRListViewTest\\pTRListViewTest\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\1ca355d38ed700bddbbc2c37411f30ac8b69a0f3\\output\\res\\anim\\abc_fade_in.xml"
+    }
+]

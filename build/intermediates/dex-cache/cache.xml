@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="G:\demo\SmartRefreshLayout-master\PTRListViewTest\pTRListViewTest\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="G:\demo\SmartRefreshLayout-master\PTRListViewTest\pTRListViewTest\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_3d3f78d3044d3a50ab10cf7c5307c1465dbe11eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\demo\SmartRefreshLayout-master\PTRListViewTest\pTRListViewTest\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="97106a407d6a34a9e8d7fdbb7093bc83a9bcca71">
+        <dex dex="G:\demo\SmartRefreshLayout-master\PTRListViewTest\pTRListViewTest\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_44c9dccc87d6684f369d9314d02c9f75827358e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\1ca355d38ed700bddbbc2c37411f30ac8b69a0f3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="G:\demo\SmartRefreshLayout-master\PTRListViewTest\pTRListViewTest\build\intermediates\transforms\dex\debug\folders\1000\10\classes_595238608f3442421d142d4020177c500341a064\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\StudioSdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="G:\demo\SmartRefreshLayout-master\PTRListViewTest\pTRListViewTest\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_dc825f4780619c0770a0524f093289c757882990\classes.dex" />
+    </item>
+
+</items>
